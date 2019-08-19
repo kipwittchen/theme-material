@@ -1,4 +1,4 @@
-[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/landing-page.jpg)](https://mdbootstrap.com/freebies/jquery/landing-page/)
+![](https://i.imgur.com/Yh7iTyf.jpg)
 
 # Bootstrap 4 & Material Design - Landing Page Template 
 
